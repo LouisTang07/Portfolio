@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://LouisTang07.github.io/Portfolio',
+  title: 'LT.',
 }
 
 const about = {
@@ -9,8 +9,8 @@ const about = {
   name: 'Louis Tang',
   role: 'Developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'Have a passion for programming, interested in algorithm and logic, good at math. Willing to learn, easy to work with, well organized, like to take the initiative. Patient, thorough, good-natured, energetic. Utilize strong interpersonal and communication skills. Effectively set priorities in order to meet operational deadlines and long-term goals while maintaining accuracy in documentation, accounts and reports.',
+  // resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
     github: 'https://github.com',
@@ -21,18 +21,19 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'NB Community Harvest Gardens website',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'NB Community Harvest Gardens(NBCHG) is a non-profit association. Website creation through a content management system will help manage administrative accounts and upload gardening resources and content to the NBCHG team who are having difficulty sharing helpful information online and are easily accessible to end users. With the new website, public users will be able to search through content to find materials as videos, documents, photos, and text that are beneficial to them in an intuitive way. ',
+    stack: ['PHP', 'JavaScript', 'CSS/HTML'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
+  /*
   {
     name: 'Project 2',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['SASS', 'JavaScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
@@ -44,6 +45,7 @@ const projects = [
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
+  */
 ]
 
 const skills = [
@@ -52,20 +54,19 @@ const skills = [
   'HTML',
   'CSS',
   'JavaScript',
-  'TypeScript',
   'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'C#',
+  'Java',
+  'SQL',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Python',
+  'PHP',
+  'Linux',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'tl721@hotmail.com',
 }
 
 export { header, about, projects, skills, contact }
