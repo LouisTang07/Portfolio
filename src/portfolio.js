@@ -12,8 +12,8 @@ const about = {
     'Have a passion for programming, interested in algorithm and logic, good at math. Willing to learn, easy to work with, well organized, like to take the initiative. Patient, thorough, good-natured, energetic. Utilize strong interpersonal and communication skills. Effectively set priorities in order to meet operational deadlines and long-term goals while maintaining accuracy in documentation, accounts and reports.',
   // resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+  // linkedin: 'https://linkedin.com',
+  // github: 'https://github.com',
   },
 }
 
@@ -25,8 +25,8 @@ const projects = [
     description:
       'NB Community Harvest Gardens(NBCHG) is a non-profit association. Website creation through a content management system will help manage administrative accounts and upload gardening resources and content to the NBCHG team who are having difficulty sharing helpful information online and are easily accessible to end users. With the new website, public users will be able to search through content to find materials as videos, documents, photos, and text that are beneficial to them in an intuitive way. ',
     stack: ['PHP', 'JavaScript', 'CSS/HTML'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    // sourceCode: 'https://github.com',
+    // livePreview: 'https://github.com',
   },
   /*
   {
